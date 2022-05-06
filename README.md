@@ -17,7 +17,7 @@ This installation guide has been written under the assumption that you have Pyth
 
 ```shell
 # Cloning the project
-git clone <url> powerplant_coding_challenge
+git clone https://github.com/Nootaku/engie_powerplant_coding_challenge.git powerplant_coding_challenge
 cd powerplant_coding_challenge
 
 # Installing dependencies
