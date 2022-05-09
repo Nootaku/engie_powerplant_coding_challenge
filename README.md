@@ -1,8 +1,8 @@
 # powerplant-coding-challenge
 
-[![Developer](https://img.shields.io/badge/Developer-Maxime Wattez-informational?style=for-the-badge =GitHub =white)](https://github.com/Nootaku)
+[![Developer](https://img.shields.io/badge/Developer-Maxime&nbsp;Wattez-informational?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Nootaku)
 
-[![Vue](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=#009688)](https://vuejs.org/)
+[![Vue](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=#009688)](https://fastapi.tiangolo.com/)
 
 You can find the original README [here](documentation/README.md)
 
@@ -17,7 +17,7 @@ This installation guide has been written under the assumption that you have Pyth
 
 ```shell
 # Cloning the project
-git clone <url> powerplant_coding_challenge
+git clone https://github.com/Nootaku/engie_powerplant_coding_challenge.git powerplant_coding_challenge
 cd powerplant_coding_challenge
 
 # Installing dependencies
